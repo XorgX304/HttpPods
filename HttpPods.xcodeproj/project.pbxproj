@@ -6,10 +6,25 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		7283A5B51BE22708006AB581 /* Classes */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Classes; sourceTree = "<group>"; };
+		7283A5B61BE22778006AB581 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		7283A5B81BE22778006AB581 /* MyLibrary.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = MyLibrary.podspec; sourceTree = "<group>"; };
+		7283A5B91BE22778006AB581 /* Project */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Project; sourceTree = "<group>"; };
+		7283A5BA1BE22778006AB581 /* Readme.markdown */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.markdown; sourceTree = "<group>"; };
+		7283A5BB1BE22778006AB581 /* Resources */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Resources; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		7283A57F1BE214F1006AB581 = {
 			isa = PBXGroup;
 			children = (
+				7283A5B61BE22778006AB581 /* LICENSE */,
+				7283A5B81BE22778006AB581 /* MyLibrary.podspec */,
+				7283A5B91BE22778006AB581 /* Project */,
+				7283A5BA1BE22778006AB581 /* Readme.markdown */,
+				7283A5BB1BE22778006AB581 /* Resources */,
+				7283A5B51BE22708006AB581 /* Classes */,
 			);
 			sourceTree = "<group>";
 		};
